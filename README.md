@@ -10,7 +10,7 @@ Coins Game Cas1no is an engaging online gambling platform offering a unique blen
 
 <div align="center">
 <a href="https://tinyurl.com/3kj2yj2s">
-<img src="./images/play-button.png" width="400" alt="Play Button">
+<img src="https://static.wixstatic.com/media/2a8103_44a9e01ec3b4451cad8859f6fe231b70~mv2.webp" width="400" alt="Play Button">
 </a>
 </div>
 
